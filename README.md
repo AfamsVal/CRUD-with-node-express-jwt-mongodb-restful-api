@@ -1,8 +1,7 @@
-## COMPLETE MERN WITH LOGIN, SIGNUP AND FEED USING JWT
+##  REST API with Express, Node.js and MongoDB - JWT (CRUD)
 
 #### AFAMS VAL
 
-#### Simple and effective restful api with react and JWT.
 
 > You need to create .env file. Make sure you run this command
 
