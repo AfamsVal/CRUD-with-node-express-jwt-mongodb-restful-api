@@ -1,8 +1,8 @@
-## CRUD WITH NODE RESTFUL API
+## COMPLETE MERN WITH LOGIN, SIGNUP AND FEED USING JWT
 
 #### AFAMS VAL
 
-#### Simple and effective restful api. You can connect to it using any front-end framework or try Postman
+#### Simple and effective restful api with react and JWT.
 
 > You need to create .env file. Make sure you run this command
 
